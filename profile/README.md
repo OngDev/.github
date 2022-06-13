@@ -9,7 +9,6 @@
 
 <img
     src="https://raw.githubusercontent.com/thuanpham2311/img/master/ongDevCharacters/4.png"
-    alt=""
   />
 
 # [Ông Dev Community](https://github.com/OngDev/community/discussions)
