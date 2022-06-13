@@ -53,13 +53,10 @@
   </b>
 </div>
 
----
-
 #### Links
 
 - Facebook: https://www.facebook.com/ongdevvuitinh
 - Youtube: https://www.youtube.com/ongdev
+- Discord: https://discord.gg/UAjbyrcZT5
 - Github: https://github.com/MiloNguyen95
 - Website: https://ongdev.com
-
-<iframe src="https://discord.com/widget?id=822464808666005504&theme=dark" width="350" height="250" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
