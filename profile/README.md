@@ -2,7 +2,7 @@
   <b
     >Vào
     <a href="https://github.com/OngDev/community/discussions"
-      ><i>discussions</i></a
+      ><i>community/discussions</i></a
     >
     để chiến nha</b
   >
