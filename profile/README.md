@@ -56,5 +56,5 @@
 - Facebook: https://www.facebook.com/ongdevvuitinh
 - Youtube: https://www.youtube.com/ongdev
 - Discord: https://discord.gg/UAjbyrcZT5
-- Github: https://github.com/MiloNguyen95
+- Github: https://github.com/duynguyenod
 - Website: https://ongdev.com
