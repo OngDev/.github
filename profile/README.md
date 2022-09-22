@@ -1,11 +1,11 @@
 <div align="center">
-  <b
-    >Vào
-    <a href="https://github.com/OngDev/community/discussions"
-      ><i>community/discussions</i></a
-    >
-    để chiến nha</b
-  >
+      <b
+        >Vào
+        <a href="https://github.com/OngDev/community/discussions"
+          ><i>community/discussions</i></a
+        >
+        để chiến nha</b
+      >
 
 <img
     src="https://raw.githubusercontent.com/thuanpham2311/img/master/ongDevCharacters/4.png"
@@ -36,12 +36,6 @@
         </td>
         <td>
           <a
-            href="https://github.com/OngDev/community/discussions/categories/udemy-request"
-            ><p>🎓Udemy Request</p></a
-          >
-        </td>
-        <td>
-          <a
             href="https://github.com/OngDev/community/discussions/categories/video-request"
             ><p>🎥Video Request</p></a
           >
@@ -51,10 +45,19 @@
   </b>
 </div>
 
-#### Links
+### 📺 Latest YouTube Videos
 
-- Facebook: https://www.facebook.com/ongdevvuitinh
-- Youtube: https://www.youtube.com/ongdev
-- Discord: https://discord.gg/UAjbyrcZT5
-- Github: https://github.com/duynguyenod
-- Website: https://ongdev.com
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/ongdev?sub_confirmation=1)
+
+---
+
+<strong>❯ Website: </strong><a href="https://ongdev.com">ongdev.com</a>
+
+<strong>❯ Facebook: </strong><a href="https://www.facebook.com/ongdevvuitinh">facebook.com/ongdevvuitinh</a>
+
+<strong>❯ Discord: </strong><a href="https://discord.gg/UAjbyrcZT5">discord.gg/UAjbyrcZT5</a>
+
+<strong>❯ Github: </strong><a href="https://github.com/duynguyenod">github.com/duynguyenod</a>
