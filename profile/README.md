@@ -40,6 +40,12 @@
             ><p>🎥Video Request</p></a
           >
         </td>
+        <td>
+          <a
+            href="https://github.com/OngDev/community/discussions/categories/technical-discussion"
+            ><p>🧠Technical discussion</p></a
+          >
+        </td>
       </tr>
     </table>
   </b>
