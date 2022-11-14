@@ -68,11 +68,11 @@
 
 ### Project Go-Live
 
-<strong>❯ Ong Dev radio: </strong><a href="https://radio.ongdev.com/">https://radio.ongdev.com/</a>
+<strong>❯ Ong Dev radio: </strong><a href="radio.ongdev.com/">https://radio.ongdev.com/</a>
 
-<strong>❯ Ong Dev url shortener: </strong><a href="https://ongdev.link/">https://ongdev.link/</a>
+<strong>❯ Ong Dev url shortener: </strong><a href="ongdev.link/">https://ongdev.link/</a>
 
-<strong>❯ Ong Dev dashboard: </strong><a href="https://ongdev.com/">https://ongdev.com/</a>
+<strong>❯ Ong Dev dashboard: </strong><a href="ongdev.com/">https://ongdev.com/</a>
 
 ---
 
