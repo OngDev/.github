@@ -64,7 +64,7 @@
 
 <!-- END YOUTUBE-CARDS -->
 
-[![](https://raw.githubusercontent.com/thuanOwa/img/master/youtube.gif)](https://www.youtube.com/channel/ongdev?sub_confirmation=1)
+[![](https://raw.githubusercontent.com/thuanOwa/img/master/youtube.gif)](https://www.youtube.com/@ongdev?sub_confirmation=1)
 
 ### Project Go-Live
 
