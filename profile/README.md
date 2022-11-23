@@ -80,6 +80,8 @@
 
 <strong>❯ Facebook: </strong><a href="https://www.facebook.com/ongdevvuitinh">facebook.com/ongdevvuitinh</a>
 
+<strong>❯ Ong Dev Ban Ron: </strong><a href="https://www.facebook.com/ongdevbanron.official">facebook.com/ongdevbanron.official</a>
+
 <strong>❯ Discord: </strong><a href="https://discord.gg/UAjbyrcZT5">discord.gg/UAjbyrcZT5</a>
 
 <strong>❯ Github: </strong><a href="https://github.com/duynguyenod">github.com/duynguyenod</a>
