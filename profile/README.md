@@ -53,7 +53,6 @@
 
 ### 📺 Latest YouTube Videos
 
-<div align="center">
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Ông Dev Q&A #8 | Tìm việc Remote, phỏng vấn, deal lương, Fintech, tự học hay đi trung tâm? #hỏidevđê](https://ytcards.demolab.com/?id=EOXFs69gshg&title=%C3%94ng+Dev+Q%26A+%238+%7C+T%C3%ACm+vi%E1%BB%87c+Remote%2C+ph%E1%BB%8Fng+v%E1%BA%A5n%2C+deal+l%C6%B0%C6%A1ng%2C+Fintech%2C+t%E1%BB%B1+h%E1%BB%8Dc+hay+%C4%91i+trung+t%C3%A2m%3F+%23h%E1%BB%8Fidev%C4%91%C3%AA&lang=en&timestamp=1671109215&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1255 "Ông Dev Q&A #8 | Tìm việc Remote, phỏng vấn, deal lương, Fintech, tự học hay đi trung tâm? #hỏidevđê")](https://www.youtube.com/watch?v=EOXFs69gshg#gh-dark-mode-only)[![Ông Dev Q&A #8 | Tìm việc Remote, phỏng vấn, deal lương, Fintech, tự học hay đi trung tâm? #hỏidevđê](https://ytcards.demolab.com/?id=EOXFs69gshg&title=%C3%94ng+Dev+Q%26A+%238+%7C+T%C3%ACm+vi%E1%BB%87c+Remote%2C+ph%E1%BB%8Fng+v%E1%BA%A5n%2C+deal+l%C6%B0%C6%A1ng%2C+Fintech%2C+t%E1%BB%B1+h%E1%BB%8Dc+hay+%C4%91i+trung+t%C3%A2m%3F+%23h%E1%BB%8Fidev%C4%91%C3%AA&lang=en&timestamp=1671109215&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250&duration=1255 "Ông Dev Q&A #8 | Tìm việc Remote, phỏng vấn, deal lương, Fintech, tự học hay đi trung tâm? #hỏidevđê")](https://www.youtube.com/watch?v=EOXFs69gshg#gh-light-mode-only)
 [![Ông Dev và cái chợ | Ún bia, chém gió, BST mới | #ODLive](https://ytcards.demolab.com/?id=v494OMmconk&title=%C3%94ng+Dev+v%C3%A0+c%C3%A1i+ch%E1%BB%A3+%7C+%C3%9An+bia%2C+ch%C3%A9m+gi%C3%B3%2C+BST+m%E1%BB%9Bi+%7C+%23ODLive&lang=en&timestamp=1670690048&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=7645 "Ông Dev và cái chợ | Ún bia, chém gió, BST mới | #ODLive")](https://www.youtube.com/watch?v=v494OMmconk#gh-dark-mode-only)[![Ông Dev và cái chợ | Ún bia, chém gió, BST mới | #ODLive](https://ytcards.demolab.com/?id=v494OMmconk&title=%C3%94ng+Dev+v%C3%A0+c%C3%A1i+ch%E1%BB%A3+%7C+%C3%9An+bia%2C+ch%C3%A9m+gi%C3%B3%2C+BST+m%E1%BB%9Bi+%7C+%23ODLive&lang=en&timestamp=1670690048&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&width=250&duration=7645 "Ông Dev và cái chợ | Ún bia, chém gió, BST mới | #ODLive")](https://www.youtube.com/watch?v=v494OMmconk#gh-light-mode-only)
@@ -64,8 +63,6 @@
 <!-- END YOUTUBE-CARDS -->
 
 [![ong dev subscribe button](https://raw.githubusercontent.com/thuanOwa/img/master/youtube.gif)](https://www.youtube.com/@ongdev?sub_confirmation=1)
-
-</div>
 
 ### Project Go-Live
 
