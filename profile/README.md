@@ -49,7 +49,6 @@
       </tr>
     </table>
   </b>
-</div>
 
 ### 📺 Latest YouTube Videos
 
@@ -63,6 +62,8 @@
 <!-- END YOUTUBE-CARDS -->
 
 [![ong dev subscribe button](https://raw.githubusercontent.com/thuanOwa/img/master/youtube.gif)](https://www.youtube.com/@ongdev?sub_confirmation=1)
+
+</div>
 
 ### Project Go-Live
 
