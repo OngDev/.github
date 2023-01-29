@@ -83,5 +83,7 @@
 
 <strong>Github: </strong><a href="https://github.com/duynguyenod">github.com/duynguyenod</a>
 
+<strong>Blog: </strong><a href="https://blog.ongdev.com">blog.ongdev.com</a>
+
 </div>
 
