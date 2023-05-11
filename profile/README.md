@@ -7,7 +7,9 @@
         để chiến nha</b
       >
 
-![](./final.gif)
+<img
+    src="https://raw.githubusercontent.com/OngDev/.github/main/profile/final.gif"
+  />
 
 ### [Ông Dev Community](https://github.com/OngDev/community/discussions)
 
